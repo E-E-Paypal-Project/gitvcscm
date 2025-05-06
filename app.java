@@ -1,5 +1,5 @@
-echo "Please enter your username"
+echo "Please enter your usernames"
             read username
-            echo "Please users  enter your password"
+            echo "Please user enter your password"
             read -s password
             echo "Welcome to the  Paypal application"
